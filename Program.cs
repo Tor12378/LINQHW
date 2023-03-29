@@ -8,4 +8,8 @@ using System.Linq;
 //LinqObj34.Func();
 //LinqObj45.Func();
 //LinqObj56.Func();
-LinqObj67.Func();
+//LinqObj67.Func();
+//Linq78.Func();
+
+//Linq89.Func();
+LiNQ100.Func();
